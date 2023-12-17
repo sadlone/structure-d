@@ -1,0 +1,10 @@
+cat_paths = /cat
+group_paths = [/group_1,/group_2]
+keyword_path = /dft
+outoutpath = /output
+pattern = 1
+top = False
+relaxation =True
+div = 1
+arg = 0
+div_arg = 1

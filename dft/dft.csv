@@ -1,0 +1,2 @@
+%mem,%nprocs,keyword,link1
+10GB,1,opt=nomicro external='./xtb.sh' nosymm scf=xqc ,

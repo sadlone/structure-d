@@ -1,0 +1,4 @@
+path = /home/baolu/lyw/structure-derivative		#脚本所在路径，在此处读取
+task_type = 0			#（0,1,2,3）代表今天聊到的那几种替换类型
+fix	= cat				#（cat，group，all）代表需要固定不做弛豫的部分
+sequence = top			#（top，end）新替换上来的原子至于原本坐标的位置，最前或最后
